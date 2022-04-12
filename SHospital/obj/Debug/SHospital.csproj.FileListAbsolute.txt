@@ -1,0 +1,6 @@
+c:\users\mikael medeiros\documents\visual studio 2015\Projects\SHospital\SHospital\bin\Debug\SHospital.exe.config
+c:\users\mikael medeiros\documents\visual studio 2015\Projects\SHospital\SHospital\obj\Debug\SHospital.csprojResolveAssemblyReference.cache
+c:\users\mikael medeiros\documents\visual studio 2015\Projects\SHospital\SHospital\bin\Debug\SHospital.exe
+c:\users\mikael medeiros\documents\visual studio 2015\Projects\SHospital\SHospital\bin\Debug\SHospital.pdb
+c:\users\mikael medeiros\documents\visual studio 2015\Projects\SHospital\SHospital\obj\Debug\SHospital.exe
+c:\users\mikael medeiros\documents\visual studio 2015\Projects\SHospital\SHospital\obj\Debug\SHospital.pdb
