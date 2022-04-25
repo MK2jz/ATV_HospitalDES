@@ -8,7 +8,16 @@ namespace SHospital
 {
     class Lista
     {
-        public string[] pacienteH = new string[3];
+        Cadastro[] lista = new Cadastro[3];
+
+        public void cadastro()
+        {
+            Console.WriteLine("--- Fila de Paciente ---");
+
+            Cadastro lista = new Cadastro();
+            lista[0].nome = Console.ReadLine();
+
+        }
 
 
     }

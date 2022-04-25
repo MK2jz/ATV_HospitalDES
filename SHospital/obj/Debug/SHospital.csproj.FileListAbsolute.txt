@@ -4,3 +4,9 @@ c:\users\mikael medeiros\documents\visual studio 2015\Projects\SHospital\SHospit
 c:\users\mikael medeiros\documents\visual studio 2015\Projects\SHospital\SHospital\bin\Debug\SHospital.pdb
 c:\users\mikael medeiros\documents\visual studio 2015\Projects\SHospital\SHospital\obj\Debug\SHospital.exe
 c:\users\mikael medeiros\documents\visual studio 2015\Projects\SHospital\SHospital\obj\Debug\SHospital.pdb
+C:\Users\Tecnico\Documents\Visual Studio 2015\Projects\ATV_HospitalDES\SHospital\bin\Debug\SHospital.exe.config
+C:\Users\Tecnico\Documents\Visual Studio 2015\Projects\ATV_HospitalDES\SHospital\obj\Debug\SHospital.exe
+C:\Users\Tecnico\Documents\Visual Studio 2015\Projects\ATV_HospitalDES\SHospital\obj\Debug\SHospital.pdb
+C:\Users\Tecnico\Documents\Visual Studio 2015\Projects\ATV_HospitalDES\SHospital\bin\Debug\SHospital.exe
+C:\Users\Tecnico\Documents\Visual Studio 2015\Projects\ATV_HospitalDES\SHospital\bin\Debug\SHospital.pdb
+C:\Users\Tecnico\Documents\Visual Studio 2015\Projects\ATV_HospitalDES\SHospital\obj\Debug\SHospital.csprojResolveAssemblyReference.cache

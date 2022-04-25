@@ -25,7 +25,7 @@ namespace SHospital
             Console.WriteLine("\nData de nascimento:");
             dataN = Console.ReadLine();
 
-            Console.WriteLine("\nSexo: [M / H]");
+            Console.WriteLine("\nSexo:");
             sexo = Console.ReadLine();
 
             Console.WriteLine("\nEndereço:");
